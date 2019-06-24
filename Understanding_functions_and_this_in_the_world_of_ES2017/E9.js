@@ -8,6 +8,4 @@ var myObject = {
 };
 
 var myOtherObject = {};
-
-myObject.myFunction.call(myOtherObject,'hello','world');
-
+myObject.myFunction.apply(myOtherObject, ['hello','world']);
