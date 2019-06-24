@@ -1,4 +1,4 @@
-//Configuracion manual de la palabra this usando call()
+//Configuracion manual de la palabra this usando bind()
 var myObject = {
     myFunction: function(a,b){
         console.log(a + '' + b);
