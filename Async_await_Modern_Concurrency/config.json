@@ -1,0 +1,18 @@
+{
+    "config": [
+     
+       {
+          "id":"01",
+          "language": "JavaScript",
+          "tutor": "Diego",
+          "area": "Fundamentos"
+       },
+     
+       {
+          "id":"02",
+          "language": "Python",
+          "tutor": "Diego",
+          "area": "Fundamentos"
+       }
+    ]
+ }
